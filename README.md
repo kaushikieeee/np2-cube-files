@@ -18,7 +18,7 @@ This repository is community-maintained to provide easy access to these LUTs for
 Contributions are welcome!  
 
 - **With a GitHub account:** submit a Pull Request (PR) with your `.cube` LUT files.  
-- **Without a GitHub account:** DM `@kaushikieeee` on [Telegram](https://t.me/NothingPhone2Photography) with the `.cube` file and a preview/sample of how it looks.  
+- **Without a GitHub account:** DM `@kaushikieeee` on [Telegram](https://t.me/kaushikieeee) with the `.cube` file and a preview/sample of how it looks.  
 
 ## License
 
