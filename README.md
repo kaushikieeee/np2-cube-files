@@ -22,25 +22,7 @@ Contributions are welcome!
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.        </tr>
-        <tr>
-            <td>Camera (Wide)</td>
-            <td>50 MP, f/1.88, p24mm (wide), 1/1.56", phase comparison-AF (All-pixel AF/omnidirectional), OIS, dual LED-flash, Videos @2160p/60fps</td>
-        </tr>
-        <tr>
-            <td>Camera (Ultrawide)</td>
-            <td>50 MP, f/2.2, 114˚ (ultrawide), 1/2.76", 0.64µm, AF</td>
-        </tr>
-        <tr>
-            <td>Camera (Front)</td>
-            <td colspan="2">32 MP, f/2.45, (wide), 1/2.74", 0.8µm, Videos @1080p/60fps</td>
-        </tr>
-    </tbody>
-</table>
-
-## Device picture
-
-![Pong](https://fdn.gsmarena.com/imgroot/reviews/23/nothing-phone-2/lifestyle/-1024w2/gsmarena_005.jpg "Pong")
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
