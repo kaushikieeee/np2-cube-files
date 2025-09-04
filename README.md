@@ -82,5 +82,3 @@ Contributions are welcome! If you have new LUTs, tweaks, or improvements, feel f
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Copyright
