@@ -20,10 +20,6 @@ Contributions are welcome!
 - **With a GitHub account:** submit a Pull Request (PR) with your `.cube` LUT files.  
 - **Without a GitHub account:** DM `@kaushikieeee` on [Telegram](https://t.me/kaushikieeee) with the `.cube` file and a preview/sample of how it looks.  
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Contribution
